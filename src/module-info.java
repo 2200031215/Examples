@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author devia
+ *
+ */
+module Example {
+}
